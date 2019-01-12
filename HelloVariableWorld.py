@@ -1,15 +1,15 @@
-#GUZMAN
+
 # Create a variable called 'name' that holds a string
-name = "Jacob Deming"
+name = "Samuel Guzman"
 
 # Create a variable called 'country' that holds a string
 country = "United States"
 
 # Create a variable called 'age' that holds an integer
-age = 25
+age = 39
 
 # Create a variable called 'hourly_wage' that holds an integer
-hourly_wage = 15
+hourly_wage = 40
 
 # Calculate the daily wage for the user
 daily_wage = hourly_wage * 8
